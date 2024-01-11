@@ -6,8 +6,13 @@
 - 직선방정식의 ax+b a값과 b값을 구하는 것
 - cost를 통해 a와 b를 구한다.
 
-## 2. Cost
-- H(x) - y =>양수 음수 나오기에 제곱해서 사용하여 평균을 낸것으로 사용한다.
-
+## 2. Hypothesis, Cost
+- H(x) - y [Hypothesis]
+- =>양수 음수 나오기에 제곱해서 사용하여 평균을 낸것으로 사용한다. [Cost]
+- 실제와 예측의 차이
+- cost가 작은 값이되게 하는 것 [learning]
+    
 ## 3. Goal
 - cost를 정의하고 cost를 minimize하는 것
+
+
